@@ -1,0 +1,23 @@
+.item{
+    display: flex !important;
+    align-items: center !important;
+    min-height: 102px !important;
+}
+.single-pokemon-data{
+    position: fixed !important;
+    background-image: linear-gradient(to right, #DECBA4, #3E5151)   !important;
+    z-index: 999 !important;
+    min-width: 50%  !important;
+    min-height: 45% !important;
+    margin-top: 10% !important;
+    display: none;
+}
+.single-pokemon-data-images{
+    background-image: linear-gradient(to right, #434343 0%, black 100%) !important;
+}
+.container{
+    background: #FFEFBA;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
