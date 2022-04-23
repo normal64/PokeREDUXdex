@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PokeREDUXdex/static/css/main.752b2845.css",
+    "main.js": "/PokeREDUXdex/static/js/main.3124bf9b.js",
+    "index.html": "/PokeREDUXdex/index.html",
+    "main.752b2845.css.map": "/PokeREDUXdex/static/css/main.752b2845.css.map",
+    "main.3124bf9b.js.map": "/PokeREDUXdex/static/js/main.3124bf9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.752b2845.css",
+    "static/js/main.3124bf9b.js"
+  ]
+}
